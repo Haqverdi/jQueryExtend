@@ -6,7 +6,7 @@ Pure Javascript version of Jquery $.extend function for use in older browsers, w
 1. Download `extend.min.js`
 2. Add to end of file where, will be use object combine
 3. 
-```
+```javascript
 let first = {
 	first: 1
 }
